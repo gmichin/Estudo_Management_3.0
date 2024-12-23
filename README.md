@@ -1,1 +1,1 @@
-# Management-3.0
+# Estudos Management 3.0
