@@ -47,3 +47,74 @@ Sendo assim, como lidar com então com sistemas complexos? Para isso, o Manageme
 - ***Antecipar, explorar, adaptar:*** Teste uma situação imaginando melhorias (antecipar), testando as coisas (explorar) e respondendo à mudança (adapte-se). No contexto do time, ele sentia que podia fazer mais, mas ficava com medo, até que percebeu que poderia fazer interações com o time para experimentar e testar suas hipóteses, por exemplo, será que o time não colabora entre si porque não confiam uns nos outros? Então dinâmicas e interações com essas temáticas o ajudaria a entender melhor tudo isso.
 - ***Encurtar o ciclo de feedback:*** Sistemas com ciclos de feedback mais lentos têm taxas de extinção mais altas em ambientes em mudança. Iterar mais rápido. Theo sabia que para garantir um projeto bem feito precisaria ter o feedback do cliente consumidor sempre e continuamente, e percebeu que isso também se aplicava ao time, que precisaria se aproximar mais deles e obter o feedback de integrantes com mais frequência para corrigir a rota mais rapidamente.
 - ***Mantenha suas opções abertas:*** Prepare-se para ser surpreendido(a). Ou seja, não se teria controle de tudo o tempo todo, não adiantaria trazer as ideias da gestão 1.0 e 2.0, que uma vez ou outra tudo ficaria mais complexo e não teria controle do que aconteceu ou poderia acontecer, então, bastava que tivesse preparo para isso, com o máximo de informações possíveis
+
+### Princípios do Management 3.0
+Quando gerenciamos uma equipe nos perguntamos: 
+- Como motivar o time?
+- Como fazer com que a equipe assuma mais responsabilidade?
+- Como melhorar o trabalho em equipe e a colaboração?
+- Como desenvolver competências nas pessoas?
+
+Se entende que uma saída para entregar um bom trabalho e manter a sustentabilidade do projeto é a inovação, e no livro de Jurgen Appelo, é explicado que a inovação tem 5 engrenagens:
+- ***Conhecimento:*** permite que o time entregue recursos aos usuários e valor aos clientes. Como em grandes projetos, o conhecimento não é centralizado, é de extrema importância que as pessoas queiram compartilhar conhecimento e trabalhar juntas.
+- ***Criatividade:*** é fácil supor que um time de desenvolvimento não é criativo e quer só fazer o que faz sentido e será utilizado, porém, esquece-se que a principal ideia de desenvolver um software é criar algo original e utilizável, e a parte do “criar algo original” leva muitas horas de trabalho e pensamento.
+- ***Motivação:*** Dentro do sistema complexo, as pessoas são os únicos elementos capazes de desenvolver conhecimento, serem criativas e realizar atividades para levar as ideias ao mercado. Por isso, é importante que realmente queiram fazer o que fazem e que as lideranças mantenham as pessoas energizadas e motivadas.
+- ***Diversidade:*** em um time no qual pessoas iguais pensam igual e não há espaço para inovação, pois não haverá discussões, é importante que todas as pessoas conheçam o contexto mas não necessariamente tenham a mesma formação, o mesmo gênero ou simplesmente gostem da mesma coisa. Em um time diverso é possível alcançar flexibilidade, resiliência e inovação no projeto. Jim Coplien e Neil Harrison listaram a diversidade como um padrão no livro Padrões organizacionais do desenvolvimento de software ágil, e pontuam que a diversidade é uma boa maneira de estimular a inovação e a habilidade de encontrar soluções para os problemas.
+- ***Personalidade:*** todos os frameworks ágeis têm seus valores principais, mas não por isso um é mais importante que outro, portanto, cada time terá sua própria conduta e seus próprios valores e isso os torna únicos e uma entrada interessante para a criatividade acontecer.
+
+As pessoas são a principal parte complexa de qualquer projeto e isso as qualifica para controlar diretamente seus próprios projetos, pois pessoas — e não processos — são as partes suficientemente complexas que conseguem encarar com a variedade de situações que poderão lidar. Isso explica o motivo de Management 3.0 prezar por “gerenciar o sistema e não as pessoas”, pois é necessário criar um ambiente no qual exista a colaboração, a troca de conhecimento, a diversidade; e um ambiente propício para a criatividade acontecer.
+
+Perceba que o Management 3.0 não é um framework ou método, e sim um conjunto de práticas baseadas em princípios atemporais:
+1. Engajar pessoas e interações
+2. Possibilitar que as pessoas melhorem o sistema
+3. Ajudar a encantar todos os clientes (todos os envolvidos, clientes, fornecedores,
+ colaboradores, acionistas e etc.)
+ 
+Para isso, Jurgen Appelo definiu 6 visões de Management 3.0 para que gestão, liderança e pensamento complexo caminhem rumo à evolução:
+
+![a](https://github.com/user-attachments/assets/02d6719c-4d53-4fbd-be5b-d8d51e1eb87b)
+
+- Energizar pessoas: Motivação e Engajamento. Uma boa ferramenta é o Moving Motivators (para maior aprofundamento dos itens, ir em conteúdo completo)
+
+![a](https://github.com/user-attachments/assets/ddb7cc11-67d6-4205-ba02-37b64d89ae24)
+
+- Empoderamento de equipes: Delegação e Capacitação
+
+Existem 3 níveis de empoderamento:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Baixo:*** no qual apenas tarefas de baixo risco seriam executadas pelos membros do time, e que necessitam de instruções explícitas para serem executadas
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Moderada:*** no qual os membros do time teriam participação mais ativa em como trabalham, jornada de trabalho, escolha de novos membros, por exemplo. Boa parte das empresas de tecnologia se encontram aqui
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Alto:*** no qual as pessoas realmente têm participação até mesmo em sua remuneração e outras questões mais estratégicas, geralmente esse é um empoderamento mais raro nas empresas, e estas mesmas costumam já nascer com essa cultura.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Para realmente empoderar o time, se utiliza o os níveis de autoridade sugeridos pelo Jurgen em Management 3.0:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1- ***Comunicar:*** toma a decisão e depois explica o que o levou a essa decisão, sem discutir, apenas para informar o time
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2- ***Vender:*** toma a decisão em relação ao trabalho e ao time, mas tenta convencê-los de que fez a escolha certa e ajuda o time a se sentirem parte da decisão.
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3- ***Consultar:*** solicita a opinião e informações do time em relação à decisão para considerá-las antes de se decidir sobre o assunto.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4- ***Concordar:*** leva a discussão para o time e juntos tomam uma decisão em consenso.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5- ***Aconselhar:*** o time decide as próximas etapas e ações e Theo apenas aconselha de acordo com sua experiência.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6- ***Perguntar:*** permite que eles decidam e depois solicita alguma explicação sobre a decisão tomada.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7- ***Delegar:*** deixa a decisão totalmente para o time, sem nem se preocupar com os detalhes, com um nível de autonomia maior
+ 
+- Alinhar restrições: Valores e Cultura. Uma boa ferramento é o quadro de delegação
+
+![a](https://github.com/user-attachments/assets/7433e7fb-5156-45db-b4f4-62e6a6e0833a)
+
+Para decidirem qual será o nível de autoridade para determinadas decisões e acordos, o time joga o Delegation Poker, no qual para cada item, todos os membros votam ao mesmo tempo qual nível de autoridade eles devem ter, e assim como Planning Poker, caso haja votos muito divergentes, as pessoas são convidadas a explicar seus pontos de vista e discutir, e uma nova votação acontece até que se entre em consenso sobre qual será o nível de autoridade
+
+- Desenvolver competência: Aprendizagem e Competências;
+- Aumentar estrutura: Estrutura Organizacional de Dimensionamento,
+- Melhorar tudo: Gerenciamento de Mudanças
+
+### Conteúdo completo
+- [Management 3.0](https://github.com/user-attachments/files/18382500/Management%2B3.0%2BGerencie%2Bo%2Bambiente%2Bnao%2Bas%2Bpessoas.pdf)
