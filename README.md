@@ -112,9 +112,100 @@ Para realmente empoderar o time, se utiliza o os níveis de autoridade sugeridos
 
 Para decidirem qual será o nível de autoridade para determinadas decisões e acordos, o time joga o Delegation Poker, no qual para cada item, todos os membros votam ao mesmo tempo qual nível de autoridade eles devem ter, e assim como Planning Poker, caso haja votos muito divergentes, as pessoas são convidadas a explicar seus pontos de vista e discutir, e uma nova votação acontece até que se entre em consenso sobre qual será o nível de autoridade
 
-- Desenvolver competência: Aprendizagem e Competências;
-- Aumentar estrutura: Estrutura Organizacional de Dimensionamento,
-- Melhorar tudo: Gerenciamento de Mudanças
+### Desenvolver competência: Aprendizagem e Competências
+Como?
+- Avaliar separadamente as habilidades e a disciplina;
+- Não avaliar os membros do time pelo conhecimento e experiência;
+- Avaliar a partir de múltiplas atividades;
+- Avaliar múltiplas performances;
+- Usar avaliações relativas, sempre que possível;
+- Manter este ciclo de feedback o mais curto possível;
+- Usar indicadores táticos e operacionais;
+- Nunca criar avaliações da sua cabeça;
+
+### Aumentar estrutura: Estrutura Organizacional de Dimensionamento
+O que fazer?
+- Manter grupos pequenos e multifuncionais;
+- Se necessário, ter time de especialistas;
+- Permitir que os times criem suas regras;
+- Ter especialistas mas propiciar generalistas;
+- Não ter cargos fixos para as pessoas;
+- Cultivar lideranças informais;
+- Evitar que a mesma pessoa trabalhe em mais de um time;
+- Manter a mesma formação pelo tempo que for possível;
+- Comunidades de prática;
+- Utilizar estrutura de rede ao invés de uma estrutura hierárquica;
+  
+![a](https://github.com/user-attachments/assets/ba7cb660-d731-41da-bd50-859c58b3334f)
+
+- Não ter segredos e manter tudo visível a todos;
+  
+Scaling Out e Scaling Up
+
+Scalling out: é o conceito de produzir vários pequenos sistemas, o tamanho permanece o mesmo, mas o sistema cresce através da produção de mais versões de si mesmo
+ 
+Scalling up: é o conceito de um sistema crescente mais e mais com o tempo. Trazendo para um conceito mais biológico, um grupo de vários pequenos sistemas é mais adaptável e menos propício à extinção do que um grupo pequeno de grandes sistemas, e isso pode se aplicar a conceitos organizacionais também
+ 
+### Melhorar tudo: Gerenciamento de Mudanças
+
+![a](https://github.com/user-attachments/assets/5864cf0f-7b1d-4ffd-9442-c842b9fdf30c)
+
+ Jurgen Appelo deixa em seu livro algumas dicas para a melhoria contínua, como:
+ - Usar de retrospectivas para discutir a situação atual e como pode ser melhorada;
+ - Manter uma lista de melhorias pendentes para diferentes times e em vários níveis da organização, e deixar essa lista visível;
+ - Utilizar um ciclo de melhoria como PDCA ou outros métodos para acompanhar como está cada item da lista de melhorias;
+ - Ter um time que apoia a transição/mudança, este time não é para ditar as melhorias e sim para apoiar e suportar as mudanças dentro da organização, com uma equipe sênior de vários da organização;
+ - Aprender sobre o Método Kanban e suas métricas de trabalho em progresso e tempo de entrega, para acompanhar as mudanças que estão em andamento e limitar excesso de mudança;
+ - Sugerir que as pessoas criem suas próprias comunidades de melhoria dentro de suas áreas, mas isso não é algo impositivo e sim algo que deve ser pelo e para o time;
+
+### Feedback wrap
+
+![a](https://github.com/user-attachments/assets/410af6c1-d119-490a-ac9f-85899f564855)
+
+ Em seguida, o time vota de 1 a 7, todos juntos, dando sua percepção de em que nível a pessoa está naquelas atividades, sendo:
+ 1. Novato: sem experiência, é iniciante no tema;
+ 2. Aprendiz: pouco conhecimento e pouca habilidade, está em aprendizado;
+ 3. Praticante: possui bom conhecimento do tema, obtém bons resultados na prática;
+ 4. Profissional: possui ótimos conhecimentos e habilidades, e toma a frente para resolver problemas;
+ 5. Professor: domina o tema, é expert, destaca-se por ensinar os outros, é referência;
+ 6. Consegue combinar conhecimentos para melhorar ainda mais seu trabalho, líder natural;
+ 7. Mestre: cria novos conhecimentos sobre o tema, domina a execução e é inspiração pro time;
+ a dinâmica
+
+ Feedback Wrap, funciona assim:
+1. Passo- Descreva seu contexto: antes de iniciar a conversar, falaria algo que está acontecendo com ele agora, por exemplo: “Oi João, estava aqui tomando meu café, que está um pouco amargo, e dei uma olhada na funcionalidade que você subiu no site aqui, e me parece que está um pouco diferente do esperado”;
+2. Passo- Listar suas observações: certifique-se de que qualquer relato seja um fato. Por exemplo: “Na parte do cabeçalho, estou vendo essa faixa cinza”;
+3. Passo- Expressar seus sentimentos: fale sobre qual impacto isso causou em você. Por exemplo: “Estou vendo essa faixa cinza, porém eu estava esperando a descrição do site nesse local”  (sentimento de estar confuso);
+4. Passo- Explique o valor: nesta parte, tentar entender qual valor te trouxe, se foi positivo ou negativo. Por exemplo: “Acredito que essa faixa cinza não estava prevista nesta parte do cabeçalho” (valor negativo);
+5. Passo- Finalize com sugestões: aqui ofereça uma sugestão ou se proponha a ajudar a resolver o problema. Por exemplo: “Pode ser que fique melhor sem a faixa cinza, somente com a descrição do site mesmo como na imagem que estou te mandando, porém podemos verificar essa situação juntos para chegar a uma conclusão”;
+
+### Merity Money e Kudo Cards
+
+[Kudo Card](https://kudobox.co/): permite que as pessoas escolham cartas e compartilhem com quem estão agradecendo. Ou, imprimir os templates e deixar que as pessoas escolham a carta que querem e colem no mural;
+
+Merity Money: Se incluiria na extranet ou no aplicativo da empresa um espaço do Merity Money, combinaria com a empresa de distribuir valores fictícios aos colaboradores, como “merity money”, “créditos”, “abraços”, e todo mês todos os colaboradores recebem uma quantidade de “abraços” que podem distribuir para seus colegas em forma de reconhecimento ou agradecimento, de forma pública;
+
+ Jurgen Appelo traz em Liderando para a Felicidade um conceito de 6 regras para recompensas:
+ - Não prometa recompensas antecipadamente: bonificações devem depender do ambiente, não de um calendário;
+ - Recompensas antecipadas devem ser pequenas: assim como os salários, caso haja alguma recompensa antecipada, não deve ser significativa o bastante para causar estresse ou interferir no desempenho das pessoas;
+ - Reconheça continuamente, não apenas uma vez: o feedback não é adiado até o final do ano, sendo assim, a chance de esquecer as coisas é pequena;
+ - Reconheça publicamente, não em particular: a transparência garante que todos saibam o que está acontecendo e o que é apreciado pelos outros, para que possam se adaptar adequadamente;
+ - Reconheça o comportamento, não o resultado: as pessoas vão dar reconhecimentos pelas coisas que fizeram um pelo outro na organização, isso premia comportamento;
+ - Reconheça os pares, não os subordinados: a gestão troca o foco no gerenciamento dos ganhos das pessoas pelo foco no gerenciamento das restrições do sistema. O reconhecimento que as pessoas recebem é do seus colegas, não da gestão;
+
+ Jurgen Appelo em Liderando para a Felicidade, traz um conceito de 12 passos para a felicidade e enfatiza que a felicidade não é o destino, mas sim o caminho:
+ 1. Agradeça a seus colegas de trabalho e tente sempre ser apreciativo, o Kudo Card ajuda bastante nisso;
+ 2. Dê um pequeno presente a um membro da equipe ou permita que eles ofereçam presentes uns aos outros, porque presentear ou ser presenteado tornam as pessoas mais felizes, como Merity Money;
+ 3. Ajude alguém que precisa de um pouco de assistência ou dê aos membros da equipe tempo e espaço para que ajudem uns aos outros, pois o altruísmo faz as pessoas se sentirem bem. Promova um ambiente aberto ao erro e a colaboração;
+ 4. Coma bem e deixe alimentos bons e saudáveis facilmente disponíveis para todos no local de trabalho. Pois existe uma forte correlação entre humor e comida. Aquelas frutas e petiscos saudáveis no escritório caem bem;
+ 5. Faça exercícios regularmente e permita que seus colegas cuidem adequadamente de seus corpos, montar uma equipe de caminhada ou corrida é uma boa ideia;
+ 6. Descanse bem e durma o suficiente, uma boa noite de sono é um dos truques sugeridos para se ter uma vida longa e saudável. Não normalizar trabalho em excesso;
+ 7. Experimente coisas novas porque a felicidade que você obtém das experiências é mais duradoura do que a felicidade que você obtém das coisas. Promova eventos de inovação;
+ 8. Caminhe ao ar livre, curta a natureza e faça com que as pessoas escapem do ambiente do escritório de vez em quando, como em reuniões ao ar livre, encontros fora do escritório;
+ 9. Medite todos os dias ou adote práticas regulares de atenção plena, pois há evidências de uma melhor consciência de si e do ambiente ao seu redor e uma paz interior aprimorada são ingredientes úteis para uma maior felicidade;
+ 10.Socialize com as pessoas e facilite o desenvolvimento de conexões entre seus colegas de trabalho, não apenas entre si mas também com outras partes interessadas, como dias de exploração, confraternizações;
+ 11. Mire em um propósito definido enquanto organização e ajude as pessoas a desenvolver, comunicar e realizar seus próprios propósitos, é a busca por significado que gera felicidade,
+ 12.Sorria para fazer todos se sentirem melhor, a felicidade nos faz sorrir, mas também funciona ao contrário, sorrir nos faz felizes
 
 ### Conteúdo completo
 - [Management 3.0](https://github.com/user-attachments/files/18382500/Management%2B3.0%2BGerencie%2Bo%2Bambiente%2Bnao%2Bas%2Bpessoas.pdf)
